@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\supercomputer\\source\\repos\\onlinejobportal\\onlinejobportal\\user\\usermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\usermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\onlinejobportal\\user\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\onlinejobportal\\user\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\onlinejobportal\\user\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\onlinejobportal\\user\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\supercomputer\\source\\repos\\onlinejobportal\\onlinejobportal\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\onlinejobportal\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\onlinejobportal\\user\\findajob.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\findajob.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\onlinejobportal\\user\\usermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\usermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\onlinejobportal\\user\\findajob.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CADF3A45-7AE1-4759-B327-3890DAA740CF}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\user\\findajob.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 224,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\assets\\css\\style.css",
+              "RelativeToolTip": "OnlineJobPortal\\assets\\css\\style.css",
+              "ViewState": "AgIAAG8OAAAAAAAAAAAswM4OAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-16T05:08:31.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\Register.aspx",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\Register.aspx",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\Register.aspx",
+              "RelativeToolTip": "OnlineJobPortal\\User\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T03:19:03.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\About.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\About.aspx.cs",
+              "RelativeToolTip": "OnlineJobPortal\\User\\About.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:15:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\About.aspx",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\About.aspx",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\About.aspx",
+              "RelativeToolTip": "OnlineJobPortal\\User\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-18T06:12:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindAJob.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\FindAJob.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\FindAJob.aspx.cs",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\FindAJob.aspx.cs",
+              "RelativeToolTip": "OnlineJobPortal\\User\\FindAJob.aspx.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAUwAcBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:25:40.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FindAJob.aspx",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\FindAJob.aspx",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\FindAJob.aspx",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\FindAJob.aspx",
+              "RelativeToolTip": "OnlineJobPortal\\User\\FindAJob.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-18T02:32:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\UserMaster.Master.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\UserMaster.Master.cs",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\UserMaster.Master.cs",
+              "RelativeToolTip": "OnlineJobPortal\\User\\UserMaster.Master.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:41:35.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMaster.Master",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\UserMaster.Master",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\UserMaster.Master",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\UserMaster.Master",
+              "RelativeToolTip": "OnlineJobPortal\\User\\UserMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-18T00:34:59.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\Index.aspx.cs",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\Index.aspx.cs",
+              "RelativeToolTip": "OnlineJobPortal\\User\\Index.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:59:12.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\Index.aspx",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\User\\Index.aspx",
+              "ToolTip": "C:\\Users\\SUPERCOMPUTER\\source\\repos\\OnlineJobPortal\\OnlineJobPortal\\User\\Index.aspx",
+              "RelativeToolTip": "OnlineJobPortal\\User\\Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-17T17:46:53.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 136,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
